@@ -28,6 +28,7 @@
 
 #define DYNARRSAUR_H_VERSION "too early to even version"
 
+#include <stddef.h>
 #include <stdlib.h>
 
 #define dynarr_t(T)  \
